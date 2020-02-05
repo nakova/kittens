@@ -1,0 +1,60 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "office@sirma.bg",
+    "password": "1234",
+    "id": "7bc4a373"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "pass",
+    "id": "36691352"
+  },
+  {
+    "email": "violina.nakova@sirma.bg",
+    "password": "92420983d03ca60a50818a4b13c266c81a8db4ffaf6ea8542480d92d58eaaa175e76310ff81665dbf1ff66afe5477c556f00f87ddc6816a33fdf553287e186cc.8b73c6e6052f6a12",
+    "id": "f869246b"
+  },
+  {
+    "email": "idevil@abv.bg",
+    "password": "b0b81a8e983d7fa81be62e2b4cf740c026665fdd2b7c0bd5294b9bd0fb351cd0720b89c7a18e239657dd3ac65c201d90e7b3c2f343401cbc5bf588d7788812f5.5ece51e079daa2b5",
+    "id": "0f3ee3bd"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "271133c8c8ec1546d6b04780e66a3680e38565adebf8cbed0c1e0a399a6a98925f7577e1771e92da9335b4edb842d465adc87b839b3b42ea01c5e37e8b3facb2.3fe5f8d07d60a0e3",
+    "id": "32dc8341"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "afa11dea322198f0fe0e419c930ff950330ee39f16bbb4f38fa61f3bafce58709495fb22a77609025849f420aa8805ab8a09d13e6b0644e9fdef8af6014ae3da.4455f5de7c4607be",
+    "id": "ef327979"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "e3fa786814aadea9b0b7e52712c51a8aa0760e00d94092fd11b8b87760e170a528597506be72575cec5728f584d4a79850ad74a8690616abd993db703e729763.34b83daa89facc5b",
+    "id": "cebb7061"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "9e7799c0cb77461d7095ec3eb297ebadc54a63e9b6330b2f1984c58e3b4b86e152f904f26fb6fcac5fb99e7205cdd2a79c5bd2ce33070fe8a8bba67477190a70.2c320e4bd2368ee0",
+    "id": "5ac01351"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "00cb77da6fda05a39394c83dcbcc4e6bc40d9ad7d4086b6ef85eba693f76b5f1f303c68cffdcf81ae7a3a7fc0a0cf98c84b7ba1eb46cdbb3513d2a2d5aa693b5.37743c09a66e931f",
+    "id": "aab5168b"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "ae5ae47fdf299ab757159c206c0cf941b00fccb7d2c7a012dc2b05c5dc356dbf8dafce5d92c9f67539700c11626077568bdc8939a11a8ef51031491102ea40ae.f28e11aa8d3029f7",
+    "id": "20039ecb"
+  },
+  {
+    "email": "test777@test.com",
+    "password": "64a3a2b593b1fcbea839fc114c2a4ffc1bf315350fceeb685598e177a9ccf2a2b07a6670411638535640575b4a80c21ca987cddd873cdfccb0dd156c612d37d8.7f715798f528314f",
+    "id": "5bff64fb"
+  }
+]
