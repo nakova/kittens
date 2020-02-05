@@ -17,7 +17,7 @@ module.exports = ({ products }) => {
                 <form action="/cart/products/" method="POST">
                     <input hidden value="${product.id}" name="productId" />
                   <button class="button has-icon is-inverted">
-                    <i class="fa fa-shopping-cart"></i> Add to cart
+                    <i class="fa fa-shopping-cart"></i> Add to cart...
                   </button>
                 </form>
               </footer>
