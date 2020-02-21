@@ -14,7 +14,7 @@ module.exports = ({ content }) => {
   
         <body>
           <header>
-            <nav class="navbar navbar-top">
+            <nav class="navbar navbar-top" id="head">
               <div class="container navbar-container">
                 <div>
                   <ul class="social">
@@ -28,20 +28,21 @@ module.exports = ({ content }) => {
                 </div>
                 <div>
                   <ul class="social">
-                    <li><a href=""><i class="fab fa-facebook"></i></a></li>
-                    <li><a href=""><i class="fab fa-twitter"></i></a></li>
-                    <li><a href=""><i class="fab fa-linkedin"></i></a></li>
-                    <li><a href=""><i class="fab fa-dribbble"></i></a></li>
-                    <li><a href=""><i class="fab fa-google-plus"></i></a></li>
+                    <li>
+                      <a href="/signin"><i class="fas fa-plus-square"></i> Sign in</a>
+                    </li>
+                    <li>
+                      <a href="/signup"><i class="fas fa-sign-in-alt"></i> Sign up</a>
+                    </li>
                   </ul>
                 </div>
-              </div>
+            </div>
             </nav>
-            <nav class="navbar navbar-bottom">
-              <div class="container navbar-container">
+            <nav class="navbar navbar-bottom" id="kitten">
+              <div class="container navbar-container" >
                 <div>
                   <a href="/">
-                    <h3 class="title">EComm Shop</h3>
+                    <h3 class="title">Kitten Shop</h3>
                   </a>
                 </div>
                 <div class="navbar-item">

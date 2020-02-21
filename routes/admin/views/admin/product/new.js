@@ -14,7 +14,11 @@ module.exports = ({ errors }) => {
                 <input class="input" placeholder="Title" name="title">
                 <p class="help is-danger">${getError(errors, 'title')}</p>
               </div>
-              
+              <div class="field">
+                <label class="label">Description</label>
+                <input class="input" placeholder="Description" name="description">
+                <p class="help is-danger">${getError(errors, 'description')}</p>
+              </div>
               <div class="field">
                 <label class="label">Price</label>
                 <input class="input" placeholder="Price" name="price">

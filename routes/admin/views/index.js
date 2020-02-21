@@ -10,7 +10,8 @@ module.exports = ({ products }) => {
                 <img src="data:image/png;base64, ${product.image}"/>
               </figure>
               <div class="card-content">
-                <h3 class="subtitle">${product.title}</h3>
+                <h2 class="subtitle">${product.title}</h2>
+                <h5 class="subtitle">${product.description}</h5>
                 <h5>$${product.price}</h5>
               </div>
               <footer class="card-footer">
@@ -32,24 +33,24 @@ module.exports = ({ products }) => {
         <section class="banner">
           <div class="container">
             <div class="columns is-centered">
-              <img src="/images/banner.jpg" />
+              <img src="/images/3banner.jpg" />
             </div>
           </div>
         </section>
-        
+
         <section>
           <div class="container">
             <div class="columns">
               <div class="column "></div>
               <div class="column is-four-fifths">
                 <div>
-                  <h2 class="title text-center">Featured Items</h2>
-                  <div class="columns products">
+                  <h2 class="title text-center">Cats for adoption:</h2>
+                  <div class="columns products" id="card">
                     ${renderedProducts}  
                   </div>
                 </div>
               </div>
-              <div class="column "></div>
+              <div class="column"></div>
             </div>
           </div>
         </section>

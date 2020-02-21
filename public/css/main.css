@@ -1,16 +1,21 @@
 body {
+  background-image: url(https://image.freepik.com/free-vector/_1340-2270.jpg);
   --primary: #631d76;
   --secondary: #9e4770;
   --white: #fbfbfb;
   --dark: #2e2532;
   --black: #201a23;
 }
-
+#kitten{
+  background: transparent;
+}
 .product-card figure {
   text-align: center;
   padding: 5px;
 }
-
+#head {
+  background: turquoise;
+}
 .navbar ul.social {
   display: flex;
 }
@@ -19,7 +24,7 @@ body {
   text-decoration: none;
 }
 .navbar ul.social li a {
-  color: var(--white);
+  color: black;
 }
 
 .banner {
@@ -143,4 +148,7 @@ body {
 .cart-right {
   display: flex;
   align-items: center;
+}
+#card {
+  background-color: turquoise;
 }

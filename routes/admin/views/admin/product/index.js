@@ -6,6 +6,7 @@ module.exports = ({ products }) => {
         return `
         <tr>
           <td>${product.title}</td>
+          <td>${product.description}</td>
           <td>${product.price}</td>
           <td>
             <a href="/admin/products/${product.id}/edit">
@@ -34,6 +35,7 @@ module.exports = ({ products }) => {
           <thead>
             <tr>
               <th>Title</th>
+              <th>Description</th>
               <th>Price</th>
               <th>Edit</th>
               <th>Delete</th>
